@@ -20,8 +20,8 @@ print(movie ,'that is cool but I love the matrix')
 
 print('Lets do math! give me two numbers to multiply')
 
-#I'm just a GCSE student and I know the addition thing don't work. Please fix it if you know how. :)
+number_1 = int(input('Enter your first number: '))
 
-num1 = input('First number:', )
-num2 = input('Second number:', )
-print int("num1"*"num2")
+number_2 = int(input('Enter your second number: '))
+
+print(number_1 * number_2)
