@@ -6,11 +6,15 @@ person = input('Enter Your Name: ')
 
 print('Hi!', person)
 
-print('How are you?')
+print('Are you Happy or sad?')
 
-dc = input('How are you feeling:', )
+dc = input('Happy or Sad:', )
 
-print('I feel Blue da ba dee')
+if dc = Happy:
+  print('Good to hear you as happy as Larry')
+  
+ else:
+  print('looks like your blue da ba dee')
 
 print('What is your favourite movie?')
 
